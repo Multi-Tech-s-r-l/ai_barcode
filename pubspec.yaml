@@ -14,7 +14,9 @@ dependencies:
     sdk: flutter
   ai_barcode_platform_interface: ^3.0.1
   ai_barcode_web:
-    path: ../ai_barcode_web
+    git:
+      url: https://github.com/Multi-Tech-s-r-l/ai_barcode_web
+    #path: ../ai_barcode_web
 
 dev_dependencies:
   flutter_test:

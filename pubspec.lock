@@ -11,9 +11,11 @@ packages:
   ai_barcode_web:
     dependency: "direct main"
     description:
-      path: "../ai_barcode_web"
-      relative: true
-    source: path
+      path: "."
+      ref: HEAD
+      resolved-ref: "77614a74c6326a105055395d78ca7c7809b1fdc3"
+      url: "https://github.com/Multi-Tech-s-r-l/ai_barcode_web"
+    source: git
     version: "3.0.1"
   async:
     dependency: transitive
