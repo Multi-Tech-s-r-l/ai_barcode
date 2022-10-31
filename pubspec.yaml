@@ -13,7 +13,8 @@ dependencies:
   flutter:
     sdk: flutter
   ai_barcode_platform_interface: ^3.0.1
-  ai_barcode_web: ^3.0.1
+  ai_barcode_web:
+    path: ../ai_barcode_web
 
 dev_dependencies:
   flutter_test:
@@ -44,6 +45,7 @@ flutter:
         pluginClass: AiBarcodePlugin
       web:
         default_package: ai_barcode_web
+
 
   # To add assets to your plugin package, add an assets section, like this:
   # assets:
