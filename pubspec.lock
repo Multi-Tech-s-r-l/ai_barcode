@@ -13,7 +13,7 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: "77614a74c6326a105055395d78ca7c7809b1fdc3"
+      resolved-ref: cc5c824a064c9490b17b156ceecd8fbcdfb040dc
       url: "https://github.com/Multi-Tech-s-r-l/ai_barcode_web"
     source: git
     version: "3.0.1"
@@ -157,14 +157,16 @@ packages:
       name: qr
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "2.1.0"
+    version: "3.0.1"
   qr_flutter:
     dependency: transitive
     description:
-      name: qr_flutter
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "4.0.0"
+      path: "."
+      ref: HEAD
+      resolved-ref: "1fc6e38c198a76a6fd60b7bd3b4c190cd6c9330b"
+      url: "https://github.com/Multi-Tech-s-r-l/qr.flutter"
+    source: git
+    version: "4.0.1"
   sky_engine:
     dependency: transitive
     description: flutter
