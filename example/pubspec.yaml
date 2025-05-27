@@ -21,7 +21,7 @@ dependencies:
   airoute: ^2.2.0
 
   # Flutter Permission.
-  permission_handler: ^8.0.0+2
+  permission_handler: ^11.0.1
 
   # message
   ai_awesome_message: ^2.2.0
@@ -30,7 +30,7 @@ dependencies:
   air_design: ^2.2.0
 
 dev_dependencies:
-  flutter_test:
+  integration_test:
     sdk: flutter
 
 # For information on the generic Dart part of this file, see the

@@ -12,6 +12,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+
+  plugin_platform_interface: ^2.1.6
   ai_barcode_platform_interface: ^3.0.1
   ai_barcode_web:
     git:
